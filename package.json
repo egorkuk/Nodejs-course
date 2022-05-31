@@ -1,0 +1,16 @@
+{
+  "name": "nodejs-course",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.1",
+    "telegraf": "^4.8.3"
+  },
+"scripts": {
+  "start": "node index.js"
+}
+}
